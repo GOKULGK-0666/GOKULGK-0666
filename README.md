@@ -141,6 +141,4 @@ A static product showcase website focused on elegant UI and layout design.
 
 ---
 
-✨ Thanks for visiting my GitHub profile!✨
-
 ✨ *Thanks for visiting my GitHub profile!* ✨
