@@ -109,7 +109,7 @@ A simple and interactive Todo List application to manage daily tasks.
 A simple and interactive web application that validates US telephone numbers using regular expressions.
 
 **🔧 Tech Used:** HTML, CSS, JavaScript
-**✨ Features:**
+**Features:**
 - Validate US phone numbers in multiple formats
 - Instant result display (Valid / Invalid)
 - Clear input functionality
