@@ -64,11 +64,44 @@ I am a passionate **Frontend Developer** who loves building clean, responsive, a
 ### 🌦 Weather Website
 A responsive weather application that displays real-time weather data based on city search.
 
-**Tech Used:** HTML, CSS, JavaScript, API  
+**Tech Used:** HTML, CSS, JavaScript  
 **Features:**
 - Real-time weather updates  
 - Clean and responsive UI  
 - User-friendly design  
+
+---
+
+### ☎️ Telephone Number Validator
+A JavaScript application that validates whether a given phone number follows valid US number formats.
+
+**Tech Used:** HTML, CSS, JavaScript  
+**Features:**
+- Validates multiple phone number formats  
+- Instant result display (Valid / Invalid)  
+- Clean and responsive UI  
+
+---
+
+### 💰 Cash Register website
+An interactive cash register application that calculates change based on the cash provided and available currency in the drawer.
+
+**Tech Used:** HTML, CSS, JavaScript  
+**Features:**
+- Calculates correct change amount  
+- Displays OPEN, CLOSED, or INSUFFICIENT_FUNDS status  
+- Handles real-world currency denominations  
+
+---
+
+### ✅ Todo List App
+A simple and interactive Todo List application to manage daily tasks.
+
+*Tech Used:* HTML, CSS, JavaScript  
+*Features:*
+- Add and delete tasks  
+- Interactive UI  
+- Lightweight application  
 
 ---
 
@@ -93,33 +126,11 @@ A static product showcase website focused on elegant UI and layout design.
 - User-friendly interface  
 
 ---
-
-### ✅ Todo List App
-A simple and interactive Todo List application to manage daily tasks.
-
-**Tech Used:** HTML, CSS, JavaScript  
-**Features:**
-- Add and delete tasks  
-- Interactive UI  
-- Lightweight application  
-
----
-
-### 📞 Telephone Number Validator
-A simple and interactive web application that validates US telephone numbers using regular expressions.
-
-**🔧 Tech Used:** HTML, CSS, JavaScript
-**Features:**
-- Validate US phone numbers in multiple formats
-- Instant result display (Valid / Invalid)
-- Clear input functionality
-
----
-
 ## 🎯 Currently Learning
 - Advanced **React**
 - Better **UI/UX practices**
 - JavaScript best practices
+- Backend Development(Node.js & Express)
 
 ---
 
@@ -129,5 +140,7 @@ A simple and interactive web application that validates US telephone numbers usi
 - Contribute to **open-source projects**
 
 ---
+
+✨ Thanks for visiting my GitHub profile!✨
 
 ✨ *Thanks for visiting my GitHub profile!* ✨
