@@ -105,6 +105,17 @@ A simple and interactive Todo List application to manage daily tasks.
 
 ---
 
+### 📞 Telephone Number Validator
+A simple and interactive web application that validates US telephone numbers using regular expressions.
+
+**🔧 Tech Used:** HTML, CSS, JavaScript
+**✨ Features:**
+- Validate US phone numbers in multiple formats
+- Instant result display (Valid / Invalid)
+- Clear input functionality
+
+---
+
 ## 🎯 Currently Learning
 - Advanced **React**
 - Better **UI/UX practices**
