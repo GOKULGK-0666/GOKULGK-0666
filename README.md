@@ -1,15 +1,15 @@
 ## Hi there 👋
 # 👋 Hi there, I'm Gokul S
 
-🎨 Frontend Developer | 💻 Web Developer | 🚀 CSE Student
+🎨 Mern stack Developer | 💻 Web Developer | 🚀 CSE Student
 
-I am a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces. I enjoy converting ideas into real-world web applications using modern frontend technologies.
+I am a passionate **Mern stack Developer** who loves building clean, responsive, and user-friendly web interfaces. I enjoy converting ideas into real-world web applications using modern full stack web app.
 
 ---
 
 ## 💡 About Me
 
-- 🌱 Frontend Developer focused on **UI & Responsive Design**
+- 🌱 React Developer focused on **UI & Responsive Design**
 - 🎯 Strong foundation in **HTML, CSS, JavaScript, and React**
 - 🛠 Hands-on experience through real-world projects
 - 📚 Continuously learning new web technologies
@@ -127,7 +127,7 @@ A static product showcase website focused on elegant UI and layout design.
 
 ---
 ## 🎯 Currently Learning
-- Advanced **React**
+- Advanced **Advance Mern**
 - Better **UI/UX practices**
 - JavaScript best practices
 - Backend Development(Node.js & Express)
@@ -135,8 +135,8 @@ A static product showcase website focused on elegant UI and layout design.
 ---
 
 ## ⭐ Goals
-- Become a skilled **Frontend Engineer**
-- Build a strong **portfolio**
+- Become a skilled **Full stack developer Engineer**
+- Build a strong **Ai tools**
 - Contribute to **open-source projects**
 
 ---
